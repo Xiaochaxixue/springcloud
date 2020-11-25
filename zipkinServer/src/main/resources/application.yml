@@ -1,0 +1,3 @@
+server:
+  port: 9090
+#(The bean 'characterEncodingFilter', defined in class path resource [zipkin/autoconfigure/ui/ZipkinUiAutoConfiguration.class], could not be registered.)
