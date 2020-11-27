@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e13cad13-5dca-41c9-9212-6d246cb544cf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e13cad13-5dca-41c9-9212-6d246cb544cf" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/eurekaserver/target/" />
@@ -197,7 +195,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="855" />
     <option name="y" value="203" />
     <option name="width" value="1157" />
@@ -358,12 +356,12 @@
       <workItem from="1605449797513" duration="668000" />
       <workItem from="1606307692942" duration="2449000" />
       <workItem from="1606310638464" duration="1059000" />
-      <workItem from="1606472740533" duration="234000" />
+      <workItem from="1606472740533" duration="1258000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51964000" />
+    <option name="totallyTimeSpent" value="52982000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
